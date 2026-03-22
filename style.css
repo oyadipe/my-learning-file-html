@@ -30,13 +30,27 @@ li {
   font-size: 20px;
   line-height: 1.5;
 }
-footer p{
+
+#copyright{
+
   text-align: center;
-  font-size: 18px;
+  font-size: 20px;
   color: gray;
 }
- article header p{
-  text-align: center;
-  font-size: 18px;
- font-style: italic; 
+
+
+#author{font-style:italic;
+  font-size: medium;
 }
+.related-author{
+  font-style: italic;
+  font-size: small;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bold;
+}
+.related{
+  list-style-type: none;
+}
+
+
+
